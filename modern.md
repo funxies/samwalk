@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Модерн в Самаре"
 permalink: /modern/
+--- 
 
 # Модерн в Самаре
 
